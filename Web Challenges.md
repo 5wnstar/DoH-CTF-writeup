@@ -31,6 +31,16 @@ But the image cannot be display Why not use Wget to extract the Image:
 
 ![flag](https://user-images.githubusercontent.com/53369822/134009420-a4f97bb8-e5d5-4181-bd24-68877c14c46b.png)
 
+Two things happened from the above screenshot 
+
+First: i used wget to extract the picture from the website but when i open the pic not display yet 
+
+Second: I decided to check the strings format of the picture Sometimes flags are usually hide there 
+checking the strings of the png I go an encoded text analyx=zing it reveal that it's an ASCII 
+I decode it using ASCII online decoder and it reveal the flag 
+![image](https://user-images.githubusercontent.com/53369822/134010456-3693d63e-0c8c-4928-9a5d-726db49a0418.png)
+
+
 
 
 
