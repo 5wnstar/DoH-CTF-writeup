@@ -27,5 +27,10 @@ Let's go to the path and see:
 
 ![file](https://user-images.githubusercontent.com/53369822/134009200-a9e8d6da-cd41-4476-94ea-9c5ae485962c.jpg)
 
+But the image cannot be display Why not use Wget to extract the Image:
+
+![flag](https://user-images.githubusercontent.com/53369822/134009420-a4f97bb8-e5d5-4181-bd24-68877c14c46b.png)
+
+
 
 
